@@ -27,4 +27,4 @@ Reset button.
 # Dependensies
 GTK4
 
-Alternatively, if GUI is unnecessary, copy the parser code into a test project and test it in a terminal.
+Alternatively, if GUI is unnecessary, copy the parser code into a test project and test it that way.
