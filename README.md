@@ -24,7 +24,7 @@ Input-output history.
 
 Reset button.
 
-# Dependensies
+# Dependencies
 GTK4
 
 Alternatively, if GUI is unnecessary, copy the parser code into a test project and test it that way.
